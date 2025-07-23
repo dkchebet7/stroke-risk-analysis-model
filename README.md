@@ -1,4 +1,4 @@
-# 🧠 Stroke Risk Prediction Model
+# Stroke Risk Prediction Model
 
 This project is a replication and portfolio-ready version of my undergraduate research paper:  
 **"Assessing and Modelling the Risk Factors of Stroke Using Multiple Logistic Regression Modelling; A Case Study in Moi Teaching and Referral Hospital (MTRH), Eldoret."**
@@ -9,14 +9,14 @@ The original study was based on clinical data collected at MTRH and was presente
 
 This notebook demonstrates how multiple logistic regression can be used to assess the risk factors contributing to stroke. Although the original dataset from the hospital is not included for privacy reasons, this project simulates a similar structure with synthetic data to illustrate the modeling approach, key findings, and visualizations.
 
-## 🧪 Objectives
+##  Objectives
 
 - Identify significant health and demographic predictors of stroke
 - Use logistic regression to estimate the risk of stroke occurrence
 - Visualize key relationships between risk factors and stroke likelihood
 - Simulate an academic research pipeline using Python
 
-## 🔑 Key Highlights
+##  Key Highlights
 
 - **Research-backed**: Based on real-world data collected during a clinical study at MTRH
 - **Model-driven**: Built using multiple logistic regression techniques
@@ -32,7 +32,7 @@ This notebook demonstrates how multiple logistic regression can be used to asses
 - scikit-learn (Logistic Regression, Model Evaluation)  
 - Jupyter Notebook / Google Colab
 
-## 📊 Outputs
+##  Outputs
 
 - Synthetic dataset simulating key features (age, hypertension, smoking status, etc.)
 - Logistic regression summary table
@@ -49,7 +49,7 @@ This notebook demonstrates how multiple logistic regression can be used to asses
 
 The original dataset from Moi Teaching and Referral Hospital (MTRH) is not included to protect patient privacy. All data used in this repository is synthetic but structurally similar to the real dataset used in the academic study.
 
-## 👩🏽‍💻 Author
+## Author
 
 **Daisy Chebet Kosgei**  
 Business Operational Analyst | Data Science & Biostatistics  
